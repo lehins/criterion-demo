@@ -1,0 +1,6 @@
+resolver: lts-16.24
+packages:
+- .
+extra-deps:
+- massiv-0.5.7.0@sha256:12c85c47e59de1322f8c79d44aea9e54558fa31d96bf5da58c194359c139b01f,4699
+- scheduler-1.5.0@sha256:8b43f2991bf9a720b12192ba99525f705a44aeae9541a7bd73fbc7e7b56fd8f0,2437
